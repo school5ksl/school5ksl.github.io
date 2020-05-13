@@ -1,0 +1,60 @@
+/*.bg-gray {
+    background-color: #e9ecef;
+}
+.h2-body {
+    text-align: center;
+}
+nav {
+    height: 130px;
+}
+/*.body-mrg {
+    margin: 0 8% 0 8%;
+}
+
+
+/*html, body {
+    height: 100%;
+}
+body {
+    padding: 50px 0 0 0;
+}
+.navbar-toggle {
+    float: left;
+    margin-left: 15px;
+}
+@media (min-width: 0) {
+    .navbar-toggle {
+        display: block;
+    }
+}
+@media (min-width: 992px) {
+    body {
+        padding: 0;
+    }
+    .navbar {
+        right: auto;
+        background: none;
+        border: none;
+    }
+}
+
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+ */
+/* картинка на странице */
+.photoflex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
